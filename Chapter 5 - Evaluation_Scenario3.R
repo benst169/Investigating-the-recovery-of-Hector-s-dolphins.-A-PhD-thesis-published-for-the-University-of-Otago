@@ -1,7 +1,6 @@
 #==================================
 #Set up workspace and load data----
 #==================================
-#Setup environment
 rm(list = ls(all=TRUE))
 library(RColorBrewer)
 setwd("C:/Users/steph/Desktop/PhD/Research/IndividualBasedModelling/3. Scenario 3. Final Model Runs/Model outputs")
