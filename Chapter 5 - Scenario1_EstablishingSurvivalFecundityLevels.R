@@ -1,7 +1,6 @@
 #===================
 #Setup Workspace----
 #===================
-#Testing out branch coding
 rm(list = ls(all=TRUE))
 library(raster)
 
